@@ -1,0 +1,58 @@
+/****** BASE STYLES ******/
+
+body { 
+    font-family: "Helvetica Neue", serif;
+    color: #ffffff;
+    font-size: 34px;
+    text-align: center;
+    /* border: 2px solid gray;
+    width: 600px;
+    height: 750px; */
+} 
+
+span {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/****** GRID ******/
+
+div {
+    width: 200px;
+    height: 250px;
+    float: left;
+    margin: 0px;
+    padding: 15px;
+    background: #3b3c40;
+}
+
+.block {
+    width: 400px;
+    height: 250px;
+}
+
+.row {
+    clear: both;
+}
+
+/****** Body ******/
+
+.cement {
+    background: #a5a5a5;
+}
+
+.fog {
+    background: #586e73; 
+    /* background: #a9b2b9; */
+}
+
+.box-1-2-8 {
+    font-size: 38px;
+}
+
+.box-3-7 {
+    font-size: 45px;
+}
+
+/****** First Row ******/
+
