@@ -17,6 +17,10 @@ span {
 
 /****** GRID ******/
 
+.container {
+    display: inline-block;
+}
+
 div {
     width: 200px;
     height: 250px;
